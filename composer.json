@@ -1,0 +1,17 @@
+{
+  "name": "Vmikki/Booking",
+  "description": "Booking",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Miklos Vincze",
+      "email": "miklos.vincze@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Vmikki\\Booking\\": "src"
+    }
+  }
+}
